@@ -1,0 +1,6 @@
+{
+  "name": "지구 열수지 시뮬레이터 (Earth Energy Budget)",
+  "description": "온실기체(CO₂, CH₄, H₂O) 농도 변화에 따른 지구 대기-지표-우주 간 열수지 및 복사에너지 평형 다이어그램 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
